@@ -1,23 +1,12 @@
-<h2 align="left">Hi 👋! My name is Marian and I'm a DevOps Engineer, from Romania</h2>
-
-<div align="center">
-  <img align="center" height="150" src="https://i.gifer.com/1ka6.gif" />
-</div>
+<h2 align="left"> 👀 </h2>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mocanumarian" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  />
-  <a href="https://tryhackme.com/p/viralnico" target="_blank"><img src="https://img.shields.io/static/v1?message=tryhackme&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme"  />
-  <a href="https://twitter.com/ismarianm" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter"  />
-</div>
+![Header](./banner.png)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViralOne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViralOne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -62,3 +51,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
+
+###
+
+<h3 align="left">👩‍💻  Where to find me</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mocanumarian" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"  />
+  <a href="https://tryhackme.com/p/viralnico" target="_blank"><img src="https://img.shields.io/static/v1?message=tryhackme&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme"  />
+  <a href="https://twitter.com/ismarianm" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter"  />
+</div>
+
+###
+
+<h3 align="left">🔥  Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViralOne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViralOne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
